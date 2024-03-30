@@ -1,7 +1,7 @@
-## Web Scraping with Selenium
+# Web Scraping with Selenium
 This project aims to scrape a webpage using Python's Selenium library
 
-# Scraping imdb.com for the Best Movies and retrieving extra information on the Top 10 as well as the top romance movies
+### Scraping imdb.com for the Best Movies and retrieving extra information on the Top 10 as well as the top romance movies
 
 1. Initially, to showcase the ability to navigate a website and its individual webpages using Selenium, the project begins at the IMDb homepage. From there, navigation proceeds towards the Top 250 movies webpage. 
 
